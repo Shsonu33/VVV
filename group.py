@@ -24,8 +24,16 @@ RAHUL_PATH = "./Rahul"  # Change this to the full path if needed
 
 # 🎯 Random Image URLs  
 image_urls = [
-    "https://envs.sh/g7a.jpg", "https://envs.sh/g7O.jpg",
-    "https://envs.sh/g7_.jpg", "https://envs.sh/gHR.jpg"
+    "https://envs.sh/Err.0.jpg",
+     "https://envs.sh/Er9.jpg",
+     "https://envs.sh/ErN.jpg",
+     "https://envs.sh/Er6.webp",
+     "https://envs.sh/Erm.webp",
+     "https://envs.sh/Erf.jpg",
+     "https://envs.sh/Erf.jpg",
+     "https://envs.sh/ErN.jpg",
+     "https://envs.sh/Er9.jpg",
+     "https://envs.sh/Err.0.jpg"
 ]
 
 # Function to check if a user is in the group
